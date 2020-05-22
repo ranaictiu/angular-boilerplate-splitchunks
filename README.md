@@ -1,2 +1,4 @@
 # angular-boilerplate-splitchunks
-splitchuinks config for angular boilerplate code
+npm install
+
+ng build
